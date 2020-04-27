@@ -1,0 +1,13 @@
+E:\Desenvolvimento\Senac\Whatsapp\bin\Debug\netcoreapp3.1\Whatsapp.exe
+E:\Desenvolvimento\Senac\Whatsapp\bin\Debug\netcoreapp3.1\Whatsapp.deps.json
+E:\Desenvolvimento\Senac\Whatsapp\bin\Debug\netcoreapp3.1\Whatsapp.runtimeconfig.json
+E:\Desenvolvimento\Senac\Whatsapp\bin\Debug\netcoreapp3.1\Whatsapp.runtimeconfig.dev.json
+E:\Desenvolvimento\Senac\Whatsapp\bin\Debug\netcoreapp3.1\Whatsapp.dll
+E:\Desenvolvimento\Senac\Whatsapp\bin\Debug\netcoreapp3.1\Whatsapp.pdb
+E:\Desenvolvimento\Senac\Whatsapp\obj\Debug\netcoreapp3.1\Whatsapp.csprojAssemblyReference.cache
+E:\Desenvolvimento\Senac\Whatsapp\obj\Debug\netcoreapp3.1\Whatsapp.csproj.CoreCompileInputs.cache
+E:\Desenvolvimento\Senac\Whatsapp\obj\Debug\netcoreapp3.1\Whatsapp.AssemblyInfoInputs.cache
+E:\Desenvolvimento\Senac\Whatsapp\obj\Debug\netcoreapp3.1\Whatsapp.AssemblyInfo.cs
+E:\Desenvolvimento\Senac\Whatsapp\obj\Debug\netcoreapp3.1\Whatsapp.dll
+E:\Desenvolvimento\Senac\Whatsapp\obj\Debug\netcoreapp3.1\Whatsapp.pdb
+E:\Desenvolvimento\Senac\Whatsapp\obj\Debug\netcoreapp3.1\Whatsapp.genruntimeconfig.cache
